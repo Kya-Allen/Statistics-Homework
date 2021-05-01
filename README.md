@@ -33,4 +33,4 @@ The Data in the assignments were generally given to us with no context, and so w
 
 <img src="https://github.com/Kya-Allen/Statistics-Homework/blob/main/Visualizations/Q%E2%80%93Q%20Plot%20-%20testing%20for%20Lognormality.png">
 
-* This visualization indicates that the data may be Lognromal, but for a more precise statistical test, we can once again see if a quadratics term (allowing the line to adjust to any possible non-linearities) is statistically significant. 
+* This visualization indicates that the data may be Lognormal, but for a more precise statistical test, we can once again see if a quadratics term (allowing the line to adjust to any possible non-linearities) is statistically significant. 
