@@ -15,8 +15,8 @@ The Class covered the following topics:
 The Data in the assignments were generally given to us with no context, and so we were asked to make up a situation for our reports
 
 ## HW 6 - Testing for Exponentiality:
-    * Test for Exponentiality in large sample using a chi-square goodness of fit test
-    * Test for Exponentiality in small sample by comparing Linear and Quadratic models on a quantile-quantile plot
+   * Test for Exponentiality in large sample using a chi-square goodness of fit test
+   * Test for Exponentiality in small sample by comparing Linear and Quadratic models on a quantile-quantile plot
       *  <img src="https://github.com/Kya-Allen/Statistics-Homework/blob/main/Visualizations/The%20Data%2C%20Graphed.png">
         * this Visualization gives us some intuition that the observed data may match an exponential distribution. For more precise knowledge, we can move on to test this with a chi-square goodness of fit test  
       *  <img src="https://github.com/Kya-Allen/Statistics-Homework/blob/main/Visualizations/Q%E2%80%93Q%20Plot.png">
