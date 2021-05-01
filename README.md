@@ -18,9 +18,11 @@ The Data in the assignments were generally given to us with no context, and so w
    * Test for Exponentiality in large sample using a chi-square goodness of fit test
    * Test for Exponentiality in small sample by comparing Linear and Quadratic models on a quantile-quantile plot
       <img src="https://github.com/Kya-Allen/Statistics-Homework/blob/main/Visualizations/The%20Data%2C%20Graphed.png">
-        * this Visualization gives us some intuition that the observed data may match an exponential distribution. For more precise knowledge, we can move on to test this with a chi-square goodness of fit test  
+       * this Visualization gives us some intuition that the observed data may match an exponential distribution. For more precise knowledge, we can move on to test this with a chi-square goodness of fit test
+          
       <img src="https://github.com/Kya-Allen/Statistics-Homework/blob/main/Visualizations/Q%E2%80%93Q%20Plot.png">
-        * This visualization gives us some intuition that the observed data set may not be exponential (we can infer this because the quantile of our exponential data should have an approximately linear relationship with the the theoretical exponential quantile)  
+       * This visualization gives us some intuition that the observed data set may not be exponential (we can infer this because the quantile of our exponential data should have an approximately linear relationship with the the theoretical exponential quantile)
+          
       <img src="https://github.com/Kya-Allen/Statistics-Homework/blob/main/Visualizations/Q%E2%80%93Q%20Plot%20-%20Quadratic%20Fit%20Comparison.png">
-        * This visualization shows us that a quadratic model may fit better than a linear model on the Q-Q plot, indicating non-linearity, this indicating non-exponentiality. For a more precise statistical evaluation, we'll see if the Quadratic term in the Ordinary-Least-Square (OLS) regression equation is statistically significant.
+       * This visualization shows us that a quadratic model may fit better than a linear model on the Q-Q plot, indicating non-linearity, this indicating non-exponentiality. For a more precise statistical evaluation, we'll see if the Quadratic term in the Ordinary-Least-Square (OLS) regression equation is statistically significant.
    
