@@ -1,5 +1,6 @@
 # Statistics-Homework
-A repository of IPython Notebooks containing statistical analyses I've done as Homework, as well as reports on each. ( 
+A repository of IPython Notebooks containing statistical analyses I've done as Homework, as well as reports on each. 
+(Note: The scenarios described in the reports are fictionalized scenarios I made up for fun, to make the work feel more applied)
 
 at present, the work in this repository is from STAT 414: Environmental Statistics.
 The Class covered the following topics:
